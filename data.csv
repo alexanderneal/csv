@@ -1,0 +1,7 @@
+Person Assigned,Task,Requirement ID,Priority,Start Date,Due Date,Estimated Duration (days),Status,Notes
+Alice,Implement login,REQ-101,High,2025-09-25,2025-10-02,5,In Progress,OAuth2 integration
+Bob,Design database schema,REQ-102,Medium,2025-09-26,2025-10-05,7,To Do,Need review with team
+Carol,Write unit tests,REQ-103,Low,2025-09-27,2025-10-01,3,To Do,Cover login + schema
+Dave,Prepare deployment pipeline,REQ-104,High,2025-09-28,2025-10-06,6,Blocked,Waiting for server access
+Eve,UI mockups for dashboard,REQ-105,Medium,2025-09-25,2025-09-30,4,In Progress,First draft ready
+
